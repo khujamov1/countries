@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container-country {
+    @apply max-w-containerCountry w-full mx-auto px-5;
+  }
